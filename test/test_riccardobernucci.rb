@@ -4,8 +4,6 @@
 questo è un commento
 =end
 
-print "<h3>step 1 test HTML title</h3>"
-
 print "Hello"
 puts "This is written in a new line"
 print "Still printing"
